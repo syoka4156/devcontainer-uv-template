@@ -68,7 +68,7 @@ uv run python src/test.py
 ## Install a Package
 
 ```bash
-uv run python seaborn
+uv add seaborn
 ```
 
 ## Using Jupyter Notebook
