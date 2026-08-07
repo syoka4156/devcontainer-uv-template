@@ -8,6 +8,12 @@ This repository provides a reproducible Python research environment using:
 
 The goal is to simplify environment setup while avoiding local dependency conflicts.
 
+## Slides
+
+The accompanying lecture slides are available on Speaker Deck:
+
+- [Modern Python Environment for Engineering Researchers with Docker + uv](https://speakerdeck.com/shokazaki/modern-python-environment-for-engineering-researchers-with-docker-plus-uv)
+
 ## Prerequisites
 
 Please install the following software before starting:
